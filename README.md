@@ -172,8 +172,8 @@ A real gesture from the glove always interrupts a running demo instantly and han
 
 ## 🙌 Credits
 
-- 3D-printed arm structure adapted from a model on [Thingiverse](https://www.thingiverse.com/) — *swap in the exact link!*
-- Built by **[your name here]**.
+- 3D-printed arm structure adapted from a model on [Thingiverse]((https://www.thingiverse.com/thing:1838120)) — *swap in the exact link!*
+- Built by **Jahnavi Karanam & Pranav Krishna**.
 
 ## 📄 License
 
