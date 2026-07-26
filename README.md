@@ -72,7 +72,7 @@ Tony is a **two-board wireless puppet show**:
 | HC-05 (Bluetooth, receiver) | Receives gesture packets from the glove |
 | MG-995 servos | Elbow, wrist (×2), gripper, one shoulder axis |
 | DS-3218 servo | Shoulder (the heavy-lifting axis — extra torque to support the arm's weight) |
-| 3D-printed frame | From a [Thingiverse](https://www.thingiverse.com/) model — *link the exact one here!* |
+| 3D-printed frame | From a [Thingiverse]([https://www.thingiverse.com/](https://www.thingiverse.com/thing:1838120)) model |
 
 ---
 
@@ -172,8 +172,8 @@ A real gesture from the glove always interrupts a running demo instantly and han
 
 ## 🙌 Credits
 
-- 3D-printed arm structure adapted from a model on [Thingiverse](https://www.thingiverse.com/) — *swap in the exact link!*
-- Built by **[your name here]**.
+- 3D-printed arm structure adapted from a model on [(Thingiverse)([(https://www.thingiverse.com/thing:1838120)](https://www.thingiverse.com/thing:1838120))] 
+- Built by **Jahnavi Karanam & Pranav Krishna**.
 
 ## 📄 License
 
