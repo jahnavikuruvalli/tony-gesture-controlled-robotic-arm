@@ -6,7 +6,7 @@ Tony is a 5-DOF robotic arm controlled by a glove. Tilt your wrist, twist it, ta
 
 <p align="center">
   <!-- 📸 Drop a hero shot or demo GIF of Tony here! e.g. docs/images/tony_hero.jpg -->
-  <img src="docs/images/tony_hero.jpg" alt="Tony the gesture-controlled robotic arm" width="600">
+  <img src="docs/images/Screenshot 2026-07-26 at 3.48.39 PM.png" alt="Tony the gesture-controlled robotic arm" width="600">
 </p>
 
 <p align="center">
